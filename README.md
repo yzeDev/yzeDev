@@ -9,14 +9,14 @@
 ## 🛠️ Languages & Tools
 - **Programming Languages:** C, Java, SQL, Visual Basic, Lua  
 - **Web Development:** HTML, CSS  
-- **Databases:** MySQL (and learning more!)  
+- **Databases:** MySQL
 
 ---
 
 ## 📌 What I'm working on
 - Expanding my Java and SQL knowledge through projects  
 - Learning more about software engineering best practices  
-- Exploring game scripting with Lua  
+- Exploring game scripting with Lua (Roblox Games)
 
 ---
 
