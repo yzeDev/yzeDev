@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yzekeil!
 
-I’m a college student and part-time **tech-savvy Virtual Assistant** who enjoys blending productivity and technology.  
+I’m a college student who enjoys blending productivity and technology.  
 From handling data and automating simple workflows to tweaking websites and creating visuals,  
 I’m passionate about making digital work smoother, faster, and smarter. 🚀  
 
